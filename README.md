@@ -23,9 +23,8 @@ This React app displays 10 helpful websites and tools for planning travel! Each 
 
 ## 🖼 GIF Walkthrough
 
-![GIF Walkthrough](YOUR_GIF_LINK_HERE)
+![GIF Walkthrough](https://i.imgur.com/Wsq7qSL.gif)
 
-> Replace the link above with your uploaded `.gif` URL from Imgur
 
 ---
 
